@@ -5,7 +5,7 @@ Great sample app to learn from or to use for reference if you want to create a s
 - Uses coroutines to solve/update the display at each step.
 - Includes an action bar.
 - Custom View for the Sudoku Board.
-- Well-designed UI/UX
+- Well-designed UI/UX.
 
 Thanks for checking it out!
 
