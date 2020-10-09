@@ -1,4 +1,4 @@
-# sudokusolver
+# Sudoku Solver Compact
 Compact Sudoku Solver app for Android made with MVVM architecture.
 
 Great sample app to learn from or to use for reference if you want to create a sudoku solver in Kotlin.
