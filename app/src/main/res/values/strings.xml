@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sudoku Solver</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="_2" translatable="false">2</string>
+    <string name="_3" translatable="false">3</string>
+    <string name="_4" translatable="false">4</string>
+    <string name="_5" translatable="false">5</string>
+    <string name="_6" translatable="false">6</string>
+    <string name="_7" translatable="false">7</string>
+    <string name="_8" translatable="false">8</string>
+    <string name="_9" translatable="false">9</string>
+    <string name="solve">Solve</string>
+    <string name="undo_button">undo button</string>
+    <string name="redo_button">redo button</string>
+    <string name="delete_button">delete button</string>
+    <string name="restart">Restart</string>
+    <string name="speed_up">Speed up</string>
+    <string name="settings">Speed Settings</string>
+    <string name="solver_default_speed_measured_in_milliseconds">solver default step speed measured in milliseconds</string>
+    <string name="default_solver_speed_in_milliseconds">Step Delay %sms</string>
+</resources>

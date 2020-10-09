@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">+</string>
+    <string name="solve">Hazlo</string>
+    <string name="undo_button">botón deshacer</string>
+    <string name="redo_button">botón de rehacer</string>
+    <string name="delete_button">botón delete</string>
+    <string name="restart">Eliminar</string>
+    <string name="speed_up">Acelerar</string>
+    <string name="settings">Configuración</string>
+    <string name="default_solver_speed_in_milliseconds">Demora de Paso %sms</string>
+    <string name="solver_default_speed_measured_in_milliseconds">solver velocidad de paso predeterminada medida en milisegundos</string>
+</resources>
